@@ -1,8 +1,7 @@
-# React-101 by Swastik Sharma (Not to be used for further publishing and distribution without permission.)
-
+# React-101 by Swastik Sharma
 ## Swastik Sharma
 
-### Github: https://github.com/SwastikSharma-Dev
+### Github: https://github.com/Swastik7Sharma
 ### LinkedIn: https://www.linkedin.com/in/swastik7sharma
 ### Replit: https://replit.com/@SwastikSharma-Dev
 ### HashNode: https://swastiksharma.hashnode.dev/
